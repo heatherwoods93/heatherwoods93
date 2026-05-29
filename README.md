@@ -23,8 +23,11 @@ Most of my professional experience has been in Webflow development, structured c
 ## Tech & Tools
 
 Frontend: React, Vite, JavaScript, CSS, Webflow
+
 Workflow & Operations: Notion, Monday.com
+
 Development: Git, GitHub, Netlify, Cloudflare
+
 AI & Automation: Claude Code, Codex
 
 ## Outside of Work
