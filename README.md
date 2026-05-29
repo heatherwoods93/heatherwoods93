@@ -2,7 +2,7 @@
 
 I'm a frontend developer focused on building clear, maintainable websites, CMS architectures, and workflow systems.
 
-Most of my professional experience has been in Webflow development, structured content systems, documentation, QA processes, and improving the workflows that support website delivery.
+Most of my professional experience has been in Webflow development, structured content systems, documentation, and process improvement for website teams.
 
 ## Currently Working On
 
